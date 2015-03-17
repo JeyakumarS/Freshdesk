@@ -1,2 +1,0 @@
-# Freshdesk
-Freshdesk Extension
